@@ -1,0 +1,17 @@
+{
+  "name": "gotonextpageplugin",
+  "version": "1.1.1",
+  "description": "created by xiaoshuai",
+  "cordova": {
+    "id": "custom-plugin-gotonextpage",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "xiaoshuai",
+  "license": "2.0"
+}
